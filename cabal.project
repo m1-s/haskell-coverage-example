@@ -1,0 +1,6 @@
+packages:
+  ./a
+  ./b
+
+tests: True
+run-tests: True
